@@ -1,0 +1,26 @@
+[
+    {
+        "who": "child",
+        "info": {
+            "firstName": "huey",
+            "lastName": "Freeman",
+            "birthDate": "05/05/1980"
+        }
+    },
+    {
+        "who": "father",
+        "info": {
+            "firstName": "Alex",
+            "lastName": "Freeman",
+            "birthDate": "05/05/1933"
+        }
+    },
+    {
+        "who": "mother",
+        "info": {
+            "firstName": "Reese",
+            "lastName": "Whitehair",
+            "birthDate": "05/05/1920"
+        }
+    }
+]    
